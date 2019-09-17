@@ -1,7 +1,7 @@
 public class People {
     private int Id;
     private String name;
-
+    private int age;
     public int getId() {
         return Id;
     }
